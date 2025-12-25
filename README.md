@@ -24,4 +24,4 @@ A Streamlit-based application that allows users to chat with PDF documents using
 ## ▶️ Run Locally
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+python -m streamlit run app.py
